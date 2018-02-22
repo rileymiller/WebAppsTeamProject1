@@ -19,3 +19,8 @@ Basketball:
 -rounded class images
 Football:
 -Table using table-striped class to showcase football scheule
+
+Ryan Buck. 15 points. 
+Riley Miller. 15 points. 
+Roy Procell. 15 points. 
+Madison Rogers. 15 points.
