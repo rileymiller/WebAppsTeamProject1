@@ -17,3 +17,5 @@ Basketball:
 -jumbotron to display basketball news
 -clickable/closeable news alert
 -rounded class images
+Football:
+-Table using table-striped class to showcase football scheule
